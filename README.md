@@ -25,7 +25,6 @@ Este projeto é um chatbot que utiliza a API do **Gemini** para responder a perg
 
 1. **Clone o repositório:**
    git clone https://github.com/alyciandrade/ChatBot.git
-   cd ChatBot
    
 2. **Instale as dependênciaas:**
    npm install
@@ -44,4 +43,4 @@ Este projeto é um chatbot que utiliza a API do **Gemini** para responder a perg
    Abra o arquivo index.html no navegador ou use um servidor local (como o Live Server do Visual Studio Code).
 
 ## Imagem do Front-End do ChatBot
-!(Imagens/Screeshots/Front-End ChatBot.png)
+
